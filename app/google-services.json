@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "552165039030",
+    "firebase_url": "https://imhome-cf500-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "imhome-cf500",
+    "storage_bucket": "imhome-cf500.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552165039030:android:122b536681ef5b29193f17",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552165039030-5mntr7oqlso1m72li3fgja5bs2rv4c7j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "f4391805fa3a6beaffba3248b82a5dbe15eaa8d9"
+          }
+        },
+        {
+          "client_id": "552165039030-o5lchnuttandq43551g0gf5jjhsg543l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNCbZHfw7f-uQrphPvCQDiuwrhoGBaseE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552165039030-o5lchnuttandq43551g0gf5jjhsg543l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
