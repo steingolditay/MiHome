@@ -3,6 +3,211 @@
 
     <string name="shopping">Shopping</string>
     <string name="bills">Bills</string>
-    <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string-array name="FruitsAndVegetables">
+        <item>Apple</item>
+        <item>Pineapple</item>
+        <item>Avocado</item>
+        <item>Banana</item>
+        <item>Blueberry</item>
+        <item>Champinones</item>
+        <item>Date</item>
+        <item>Grapes</item>
+        <item>Lemon</item>
+        <item>Mango</item>
+        <item>Nectarine</item>
+        <item>Peach</item>
+        <item>Plum</item>
+        <item>Tangerine</item>
+        <item>Cauliflower</item>
+        <item>Carrot</item>
+        <item>Cherry Tomato</item>
+        <item>Cucumber Petite</item>
+        <item>Garlic</item>
+        <item>Persimmon</item>
+        <item>Potatoes</item>
+        <item>Potato Petite</item>
+        <item>Strawberry</item>
+        <item>Tomato</item>
+    </string-array>
+
+    <string-array name="DairyAndEggs">
+        <item>Actimel</item>
+        <item>Cooking Butter</item>
+        <item>Butter Spread</item>
+        <item>Cream Cheese</item>
+        <item>Grated Cheese</item>
+        <item>Yellow Cheese</item>
+        <item>Olive Cream Cheese</item>
+        <item>Cooking Cream</item>
+        <item>Eggs</item>
+        <item>Milk</item>
+        <item>Mozzarella Balls</item>
+        <item>Sliced Mozzarella</item>
+        <item>Parmesan</item>
+        <item>Tvorog</item>
+        <item>Plane Yogurt</item>
+        <item>Sweet Yogurt</item>
+    </string-array>
+
+    <string-array name="BreadAndBaking">
+        <item>Bread</item>
+        <item>Brioche</item>
+        <item>Crisps</item>
+        <item>Hamburger Bun</item>
+        <item>Crisps</item>
+        <item>Hotdog Bun</item>
+        <item>Tortilla</item>
+    </string-array>
+
+    <string-array name="Beverages">
+        <item>Black Tea</item>
+        <item>Sommersby</item>
+        <item>Orange Juice</item>
+        <item>Ulun</item>
+        <item>Water</item>
+    </string-array>
+
+    <string-array name="CannedAndDry">
+        <item>Breadcrumbs</item>
+        <item>Sugar Powder</item>
+        <item>Backing Powder</item>
+        <item>Cocoa Powder</item>
+        <item>Condensed Milk</item>
+        <item>Croutons</item>
+        <item>Soup Сroutons</item>
+        <item>Vanilla</item>
+        <item>Canned Corn</item>
+        <item>Canned Tuna</item>
+        <item>Cornflex</item>
+        <item>Nuts</item>
+        <item>Flour</item>
+        <item>Cornflex</item>
+        <item>Pasta - Fusilli</item>
+        <item>Granola</item>
+        <item>Lasagna Slices</item>
+        <item>Oat</item>
+        <item>Rice</item>
+        <item>Bulgur</item>
+        <item>Pasta - Spaghetti</item>
+        <item>Basilicum</item>
+        <item>Cinnamon</item>
+        <item>Oregano</item>
+        <item>Sweet Paprika</item>
+        <item>Pepper</item>
+        <item>Salt</item>
+        <item>Black Sesame</item>
+        <item>White Sesame</item>
+        <item>Sugar</item>
+        <item>Balsamic Cream</item>
+        <item>Sweet Chili</item>
+        <item>Ketchup</item>
+        <item>Olive Oil</item>
+        <item>Sunflower Oil</item>
+        <item>Tahini</item>
+        <item>Teriyaki</item>
+        <item>Tomato Sauce</item>
+    </string-array>
+
+    <string-array name="MeetAndFrozen">
+        <item>Schnitzel - Broccoli</item>
+        <item>Chicken Breast</item>
+        <item>Chicken Skewers</item>
+        <item>Schnitzel - Corn</item>
+        <item>Fruits For Smoothie</item>
+        <item>Ground Beef</item>
+        <item>Ham</item>
+        <item>Ham Turkey</item>
+        <item>Hamburger</item>
+        <item>Kebabs</item>
+        <item>Minced Chicken</item>
+        <item>Pepperoni</item>
+        <item>Pelmeni</item>
+        <item>Salmon</item>
+        <item>Sausage</item>
+        <item>Shrimp</item>
+        <item>Schnitzel - Chicken</item>
+        <item>Steak</item>
+        <item>Vareniki</item>
+    </string-array>
+
+    <string-array name="SnacksAndSweets">
+        <item>Chocolate Spread</item>
+        <item>Chocolate Chips</item>
+        <item>Cookies For Cheesecake</item>
+        <item>Cooking Chocolate</item>
+        <item>Honey</item>
+        <item>Peanut Butter</item>
+        <item>Snack</item>
+    </string-array>
+
+    <string-array name="Hygiene">
+        <item>Air Freshener</item>
+        <item>Hair Gel</item>
+        <item>Cotton Buds</item>
+        <item>Cotton Pads</item>
+        <item>Dental Floss</item>
+        <item>Intimate Gel</item>
+        <item>Hair Conditioner</item>
+        <item>Hair Mask</item>
+        <item>Betacorten</item>
+        <item>Lens Solution</item>
+        <item>Sabosal</item>
+        <item>Pads</item>
+        <item>Napkins</item>
+        <item>Paper Towel</item>
+        <item>Shampoo</item>
+        <item>Shower Gel</item>
+        <item>Soap Bar</item>
+        <item>Soap</item>
+        <item>Tampons</item>
+        <item>Toilet Paper</item>
+        <item>Toothbrush</item>
+        <item>Toothpaste</item>
+        <item>Wet Wipes</item>
+    </string-array>
+
+    <string-array name="CleaningAndSupplies">
+        <item>Anti-Clog Remedy</item>
+        <item>Dishwashing Capsules</item>
+        <item>Dishwashing Salt</item>
+        <item>Dishwashing Liquid</item>
+        <item>Grease Spray Remover</item>
+        <item>Laundry Capsules</item>
+        <item>Mirror Cleaner</item>
+        <item>Sink/Toilet Cleaner</item>
+        <item>Scale Cleaner</item>
+        <item>Sponge For Dishes</item>
+        <item>Water Filters</item>
+        <item>Cleaning Wet Wipes</item>
+    </string-array>
+
+    <string-array name="Smoking">
+        <item>Material</item>
+        <item>Tobacco</item>
+        <item>Rolling Paper</item>
+        <item>Dishwashing Liquid</item>
+        <item>Grease Spray Remover</item>
+        <item>Laundry Capsules</item>
+        <item>Mirror Cleaner</item>
+        <item>Sink/Toilet Cleaner</item>
+        <item>Scale Cleaner</item>
+        <item>Sponge For Dishes</item>
+        <item>Water Filters</item>
+        <item>Wet Wipes In Bucket</item>
+    </string-array>
+
+    <string-array name="Bills">
+        <item>Electricity</item>
+        <item>Gas</item>
+        <item>House Committee</item>
+        <item>Internet</item>
+        <item>Payback</item>
+        <item>Property Tax</item>
+        <item>Water</item>
+    </string-array>
+
+
 </resources>
