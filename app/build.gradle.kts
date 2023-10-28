@@ -21,6 +21,15 @@ android {
         viewBinding = true
     }
 
+    signingConfigs {
+        getByName("debug"){
+            storeFile = file("$rootDir/debug.jks")
+            keyAlias = "key0"
+            keyPassword = "123123"
+            storePassword = "123123"
+        }
+    }
+
     buildTypes {
         release {
             isMinifyEnabled = false
@@ -28,6 +37,10 @@ android {
                 getDefaultProguardFile("proguard-android-optimize.txt"),
                 "proguard-rules.pro"
             )
+        }
+        debug {
+            signingConfig = signingConfigs.getByName("debug")
+            isDebuggable = true
         }
     }
     compileOptions {
